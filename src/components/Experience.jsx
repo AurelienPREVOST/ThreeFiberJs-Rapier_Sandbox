@@ -59,5 +59,6 @@ La restitution donne la puissance de l'effet rebond (peux etre negatif), à 1 il
         <meshNormalMaterial />
       </mesh> */}
     </>
+    
   );
 };

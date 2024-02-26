@@ -1,10 +1,18 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
-
 ```
 yarn
+```
+
+```
 yarn dev
 ```
 
+ThreeJS => moteur rendu graphique 3D (webgl)
+docs: https://threejs.org/
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+ReactThreeFiberJS => threeJS couplé à react
+docs: https://docs.pmnd.rs/react-three-fiber/getting-started/introduction
+
+Rapier => moteur physique
+docs: https://rapier.rs/docs/user_guides/javascript/getting_started_js
+
+

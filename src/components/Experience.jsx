@@ -52,12 +52,6 @@ La restitution donne la puissance de l'effet rebond (peux etre negatif), à 1 il
         </Box>
       </RigidBody>
 
-
-      {/* De base on a un mesh mais on le supprime au profit d'un rigidbody qui peux bénéficier de physics */}
-      {/* <mesh>
-        <boxGeometry />
-        <meshNormalMaterial />
-      </mesh> */}
     </>
     
   );
